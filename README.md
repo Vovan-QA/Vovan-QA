@@ -36,7 +36,9 @@
 
 ---
 
+### 📖 Документация
 
+<a href="https://git-scm.com/book/ru/v2" target="_blank" rel="noopener noreferrer">Справочник Git</a>
 
 
 
