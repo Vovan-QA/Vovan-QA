@@ -40,7 +40,11 @@
 
 <a href="https://git-scm.com/book/ru/v2" target="_blank" rel="noopener noreferrer">Справочник Git</a>
 
+---
 
+### 📖 Мой опыт
+
+<a href="https://svovan88.atlassian.net/jira/software/projects/DIPLOM/boards/2?atlOrigin=eyJpIjoiNjMwODM4YTczZjE5NGQwNjhiY2YzMTg1MDFlY2EwMmEiLCJwIjoiaiJ9" target="_blank" rel="noopener noreferrer">Баг трекер в jira</a>
 
 
 
