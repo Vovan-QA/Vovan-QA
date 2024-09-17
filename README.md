@@ -7,7 +7,7 @@
 Я начинающий тестировщик и прошел курс по тестированию Web приложений в Skillbox. 
 
 <div>
-  <img src="https://cdn.skillbox.pro/certgen/certificates/7/Yl7wnJddJYJIvtiGCo0EBwU8p3PfRJET.png" title="certificate" alt="jira" width="400" height="600"/>&nbsp
+  <img src="https://cdn.skillbox.pro/certgen/certificates/7/Yl7wnJddJYJIvtiGCo0EBwU8p3PfRJET.png" title="certificate" width="300" height="500"/>&nbsp
 </div>
 
 ---
