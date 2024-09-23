@@ -31,6 +31,13 @@
 
 ---
 
+### 🛠 Тестирование мобильных приложений:
+
+<div>
+  <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" title="Android studio" alt="Android studio" width="40" height="40"/>&nbsp
+  
+---
+
 ### ✏️ Работа с кодом:
 
 <div>
