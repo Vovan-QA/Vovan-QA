@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я начинающий тестировщик и прошел курс по тестированию Web приложений в Skillbox. Обучаюсь тестированию мобильных приложений. Далее курсы по автотестам, на языке Pyton.
+Я начинающий тестировщик и прошел курс по тестированию Web приложений в Skillbox. Обучаюсь тестированию мобильных приложений, автотесты, на языке Pyton.
 
 <div>
   <img src="https://cdn.skillbox.pro/certgen/certificates/7/Yl7wnJddJYJIvtiGCo0EBwU8p3PfRJET.png" title="certificate" width="150" height="210"/>&nbsp
